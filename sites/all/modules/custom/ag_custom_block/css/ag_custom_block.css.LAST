@@ -1,0 +1,64 @@
+@import url(//fonts.googleapis.com/css?family=Roboto);
+
+body{
+	background-color: #181414;
+}
+
+#header .block>h2{
+	display:none;
+}
+
+#user-login{
+	width: 600px;
+	margin: 0 auto;
+	color: #ffffff;
+	font-family: 'Arial';
+	font-size: 14px;
+}
+/* ---------- */
+/**/
+#block-menu-menu-secciones>h2{
+	display:none; important
+}
+
+#block-menu-menu-secciones .content ul{
+	display: block;
+}
+
+#block-menu-menu-secciones .content ul li{
+	display: inline-block;
+	border-bottom: 1px solid #333333;
+	margin-left: 5px;
+	text-align: center !imporant;
+}
+
+#block-menu-menu-secciones .content ul li:hover{
+	border-bottom: 1px solid #ffffff;
+}
+
+#block-menu-menu-secciones .content ul li a{
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'Poiret One', 'cursive';
+	font-size: 12px;
+}
+
+#block-menu-menu-secciones .content ul li a:link, #block-menu-menu-secciones .content ul li a:visited, #block-menu-menu-secciones .content ul li a:active{
+	color: #ffffff;
+}
+/* ---------- */
+.name-site{
+	font-family: 'Roboto', sans-serif;
+	color: #ffffff;
+	font-size: 24px;
+	font-weight: bold;
+	float: left;
+	margin-right: 15px;
+}
+.name-site>a{
+	text-decoration: none;
+}
+.name-site>a:link, .name-site>a:active, .name-site>a:visited{
+	color: #ffffff;
+}
+/* ---------- */

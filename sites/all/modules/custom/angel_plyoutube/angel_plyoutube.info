@@ -1,0 +1,4 @@
+name = AG :: Modulo Playlist de Youtube
+description = Modulo para pintar en bloques los videos que se encuentran en un determinado playlist de youtube
+version = "7.x-1.0"
+core = "7.x"

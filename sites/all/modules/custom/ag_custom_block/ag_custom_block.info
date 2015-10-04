@@ -1,0 +1,4 @@
+name = AG :: Modulo con CSS del Sitio
+description = Modulo que incluye y emplea los CSS generales del sitio.
+version = "7.x-1.0"
+core = "7.x"

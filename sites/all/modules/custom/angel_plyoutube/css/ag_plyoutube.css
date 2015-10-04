@@ -1,0 +1,107 @@
+@import url(//fonts.googleapis.com/css?family=Poiret+One);
+
+#youtube h2{
+	background-color: #222222;
+	height: 77px;
+	margin: 0 auto;
+	padding: 10px 0;
+	text-align: center;
+}
+#youtube h2>a{
+	color: #dddddd;
+	margin: 0 15px;
+}
+
+.pane-angel-plyoutube-forgetyoursadness>.pane-content>#youtube h2 {
+	padding: 0px 0 35px 0;
+}
+
+#youtube h2>a, #youtube h2>a:hover, #youtube h2>a:link, #youtube h2>a:active{
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 13px;
+	text-decoration: none;
+}
+#youtube h2>a:hover{
+	color: #ffffff;
+}
+
+#youtube figure>a>img{
+	/*width: 321px;*/
+        width: 220px;
+}
+
+#youtube article{
+	border-bottom: 1px solid #333333;
+	border-right: 1px solid #333333;
+	float: left;
+	margin:0 5px 5px 0;
+	/*width: 405px;*/
+        width: 300px;
+	height: 263px;
+	overflow: hidden;
+}
+
+#youtube article, #imageDataContainer, #outerImageContainer, #bottomNavClose{
+	background-color: #000000 !important;
+}
+
+#imageData #imageDetails {
+	color: #ffffff;
+  font-size: 17px;
+  margin-top: 25px;
+  text-align: center;
+  width: 100% !important;
+}
+
+#imageData #imageDetails #caption{
+	word-wrap: break-word !important;
+	max-width: 123px !important;
+}
+
+iframe{
+	border-color: #666666 !important;
+}
+
+#imageDataContainer{
+	height: 115px;
+}
+
+.lightbox2-alt-layout-data #bottomNavClose, .lightbox2-alt-layout #bottomNavClose {
+  margin-top: 21px !important;
+}
+
+
+
+/*
+#block-menu-menu-secciones{
+}
+
+#block-menu-menu-secciones>h2{
+  display:none; important
+}
+
+#block-menu-menu-secciones .content ul{
+  display: block;
+}
+
+#block-menu-menu-secciones .content ul li{
+  display: inline-block;
+  border-bottom: 1px solid #333333;
+  margin-left: 5px;
+  text-align: center !imporant;
+}
+
+#block-menu-menu-secciones .content ul li:hover{
+  border-bottom: 1px solid #ffffff;
+}
+
+#block-menu-menu-secciones .content ul li a{
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Poiret One', 'cursive';
+}
+
+#block-menu-menu-secciones .content ul li a:link, #block-menu-menu-secciones .content ul li a:visited, #block-menu-menu-secciones .content ul li a:active{
+  color: #ffffff;
+}
+*/
