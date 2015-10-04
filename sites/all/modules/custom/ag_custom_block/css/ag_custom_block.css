@@ -102,3 +102,7 @@ block-menu-menu-secciones{
 #block-menu-menu-secciones .content ul li a:link, #block-menu-menu-secciones .content ul li a:visited, #block-menu-menu-secciones .content ul li a:active{
   color: #ffffff;
 }
+
+.pane-title{
+	display: none;
+}

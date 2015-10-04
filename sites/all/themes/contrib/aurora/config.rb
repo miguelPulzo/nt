@@ -25,12 +25,3 @@ relative_assets = true
 # and then run:
 # sass-convert -R --from scss --to sass sass scss && rm -rf sass && mv scss sass
 
-
-
-
-source 'https://rubygems.org'
-
-gem 'toolkit', '~&gt;1.0.0'
-gem 'singularitygs', '~&gt;1.0.7'
-gem 'breakpoint', '~&gt;2.0.2'
-gem 'sassy-buttons', '~&gt;0.1.4'

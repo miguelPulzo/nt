@@ -167,3 +167,21 @@ div.vertical-tabs {
     }
   }
 }
+
+
+
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  
+  #youtube>article{
+    width: 267px;
+  }
+
+  #youtube>article>figure{
+   -webkit-margin-start: 22px;
+  }
+
+}
