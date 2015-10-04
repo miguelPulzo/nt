@@ -156,7 +156,8 @@ function angel_plyoutube_block_view($delta = '') {
     switch ($delta) {
       //----------
       case 'nn_'.$item:
-        $data = angel_plYoutube_getHtmlVideosNN( $item );
+        //$data = angel_plYoutube_getHtmlVideosNN( $item ); //FUNCIONAL;
+        $data = angel_plYoutube_getHtmlVideosNNT( $item );
         $block['content'] = theme('nn_'.$item, array('nodes'=>$data));
         break;
       //----------
