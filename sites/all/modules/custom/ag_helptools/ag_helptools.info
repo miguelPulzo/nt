@@ -1,7 +1,0 @@
-name = AG :: Help Tools
-description = Módulo desarrollado con el ánimo de brindar herramientas que sirvan de monitoreo y/o testeo en desarrollos.
-
-core = 7.x
-package = AG
-
-dependencies[] = node
